@@ -1,0 +1,8 @@
+myfunc1 is called
+myFunc1 was called
+myFunc1 was called
+myFunc1 was called
+myFunc1 was called
+__name__ was called
+__name__ was called
+__name__ was called
